@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "az-functions-bindings-workers", "az-functions-bindings-workers\az-functions-bindings-workers.csproj", "{FC5FDAAC-19F7-49C4-A43F-4D678915A472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5FDAAC-19F7-49C4-A43F-4D678915A472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5FDAAC-19F7-49C4-A43F-4D678915A472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5FDAAC-19F7-49C4-A43F-4D678915A472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5FDAAC-19F7-49C4-A43F-4D678915A472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C383328-4FB4-4555-A233-F548928A9955}
+	EndGlobalSection
+EndGlobal

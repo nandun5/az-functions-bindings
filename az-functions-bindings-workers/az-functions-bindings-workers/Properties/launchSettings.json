@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_functions_bindings_workers": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7085",
+      "launchBrowser": false
+    }
+  }
+}
